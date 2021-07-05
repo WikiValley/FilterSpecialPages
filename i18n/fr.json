@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"Seb35"
+		]
+	},
+	"filterspecialpages-hint-label": "Trouver une page",
+	"filterspecialpages-desc": "Insère un champ pour filtrer les entrées dans [{{canonicalurl:Special:SpecialPages}} Spécial:Pages spéciales]."
+}
